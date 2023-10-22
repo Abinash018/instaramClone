@@ -254,7 +254,14 @@ public class HomeFragment extends Fragment {
 
    // this is my readstory reposotary that will be help us to do some of the   readstory6 related taskk
 
+         int s ;
+         int count=2;
+         if(count>0){
 
+
+
+
+        }
 
 
 
