@@ -250,6 +250,14 @@ public class HomeFragment extends Fragment {
     }
 
     private void readStory(){
+
+
+   // this is my readstory reposotary that will be help us to do some of the   readstory6 related taskk
+
+
+
+
+
         DatabaseReference reference = FirebaseDatabase.getInstance().getReference("Story");
         reference.addValueEventListener(new ValueEventListener() {
             @Override
