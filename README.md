@@ -17,7 +17,7 @@
 1. Login, Signup,Logout,Forgot password (with email verification)
 2. Quick Login like in Facebook and Instagram (this means app remembers that you had logged in).
 3. Follow, Unfollow, Profile views.
-4. Post photo posts from camera or gallery
+4. Post photo posts from camera or gallery   
    * Like posts
       * View all likes on a post
    * Comment on posts
